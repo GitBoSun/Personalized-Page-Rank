@@ -2,7 +2,7 @@
 Serial and MPI parallel PPR.
 
 PageRank is a famous algorithm from Google to rank the website page we query about. Personalized PageRank adds personal preference to pages thus it's useful in recommendation and discovery. The concept is in below figure. In this repository, I implement the serial and parallel version of PPR with MPI due to the perfect parallel feature of this problem.
-<div align=center><img src="https://github.com/GitBoSun/Personalized-Page-Rank/blob/master/images/concept.png" width="50%">
+<img src="https://github.com/GitBoSun/Personalized-Page-Rank/blob/master/images/concept.png" width="50%">
 
 ## Algorithm
 
